@@ -1,11 +1,11 @@
 # Site settings
 author: Joshua Williams
-title: 
+title: The Future is Software
 header-img: img/home-bg.png
 email: j.o-williams@outlook.com
 copyright_name: Joshua Williams
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My story to my future goals
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MagicTurtle111
